@@ -1,6 +1,6 @@
 {
   "name": "capacitor-call-activity",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "call android activities",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
